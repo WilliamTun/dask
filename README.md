@@ -14,8 +14,12 @@ as Dask allows distribution BEYOND a single machine. \
 
 # Dask supports multiple systems
 Dask-Jobque supports HPC via "Dask-Jobqueue" \
-\
+<br />
 Dask-Kubernetes supports Kubernetes. \
 Dask has a HELM CHART for setting up a dask cluster within kubernetes. \
-\
+<br />
 Dask-Yarn supports hadoop based system \
+
+
+
+
